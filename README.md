@@ -50,14 +50,16 @@ The notebook covers **EDA, preprocessing, model building, and evaluation**.
 4. **Evaluation Metrics**  
    - R² Score  
    - Mean Squared Error (MSE)  
-   - Root Mean Squared Error (RMSE)  
-
----
+   - Root Mean Squared Error (RMSE)
+     
 **MSE:** 0.06101536026017097
 **R2:** 0.9493050207598822
 **Training score:** 0.9500817896767236
 **Test score:** 0.9493050207598822
-**These results show the model generalizes well without overfitting.**
+**These results show the model generalizes well without overfitting.**      
+
+---
+
 ## 📦 Requirements
 Install dependencies using:
 ```bash
