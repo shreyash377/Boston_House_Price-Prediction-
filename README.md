@@ -56,9 +56,10 @@ The notebook covers **EDA, preprocessing, model building, and evaluation**.
 **MSE:** 0.06101536026017097
 
 **R2:** 0.9493050207598822
-
 **Training score:** 0.9500817896767236
+
 **Test score:** 0.9493050207598822
+
 **These results show the model generalizes well without overfitting.**  
 
 ## 📦 Requirements
